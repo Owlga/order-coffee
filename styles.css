@@ -45,3 +45,11 @@
     border-radius: 5px;
 }
 
+fieldset {
+    position: relative;
+}
+.close-button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
